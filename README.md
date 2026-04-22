@@ -57,19 +57,32 @@ Frontend	HTML / CSS / JavaScript, Leaflet.js, CRS.Simple
 Plain Text
 
 novel-map-demo/
+
 ├── app.py                  # FastAPI 主应用，WebSocket 通信
+
 ├── ai_engine.py            # AI 分析引擎，文本分段 + 实体提取
+
 ├── map_engine.py           # 地图引擎，坐标分配 + 力导向布局
+
 ├── terrain_generator.py    # 地形生成器，Perlin Noise + 生物群落
+
 ├── geo_database.py         # 地理编码数据库，真实坐标查询
+
 ├── templates/
 │   └── index.html          # 前端页面，Leaflet 地图渲染
+
 ├── static/
+
 │   └── libs/
+
 │       ├── leaflet.css     # Leaflet 样式
+
 │       └── leaflet.js      # Leaflet 库
+
 └── images/
+
     ├── demo_real_map.png   # 真实地理模式效果图
+    
     └── demo_fictional_map.png  # 虚构世界模式效果图
 
     
