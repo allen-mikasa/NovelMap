@@ -12,14 +12,16 @@
 
 AI 自动识别真实地名并定位到地图上，点击地点可查看关联事件与人物。
 
-![三国演义 - 真实地理模式](<img width="2544" height="1457" alt="屏幕截图 2026-04-22 162507" src="https://github.com/user-attachments/assets/3c6bcf5b-49b7-40f6-8ee7-aef7f95c5a04" />)
+![三国演义 - 真实地理模式]
+<img width="2544" height="1457" alt="屏幕截图 2026-04-22 162507" src="https://github.com/user-attachments/assets/3c6bcf5b-49b7-40f6-8ee7-aef7f95c5a04" />
 
 
 ### 虚构世界模式 —《剑来》
 
 为玄幻/仙侠小说生成程序化地形，基于空间关系自动排布地点，支持势力区域着色与生物群落渲染。
 
-![剑来 - 虚构世界模式](<img width="2450" height="1462" alt="屏幕截图 2026-04-22 162340" src="https://github.com/user-attachments/assets/940c66b3-31b1-4f30-b745-8b4121d3fb62" />)
+![剑来 - 虚构世界模式]
+<img width="2450" height="1462" alt="屏幕截图 2026-04-22 162340" src="https://github.com/user-attachments/assets/940c66b3-31b1-4f30-b745-8b4121d3fb62" />
 
 ---
 
