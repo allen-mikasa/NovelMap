@@ -5,11 +5,13 @@ NovelMap Engine - 小说地图可视化引擎
 
 效果展示
 真实地理模式示例 —《三国演义》
+
 AI 自动识别真实地名并定位到地图上，点击地点可查看关联事件与人物。
 <img width="2544" height="1457" alt="屏幕截图 2026-04-22 162507" src="https://github.com/user-attachments/assets/150cf639-35fb-4b02-bc8a-41bf360d19e1" />
 三国演义 - 真实地理模式
 
 虚构世界模式示例 —《剑来》
+
 为玄幻/仙侠小说生成程序化地形，基于空间关系自动排布地点，支持势力区域着色与生物群落渲染。
 <img width="2450" height="1462" alt="屏幕截图 2026-04-22 162340" src="https://github.com/user-attachments/assets/9329624b-4ec4-4833-8a3e-4a60976a1dfa" />
 <img width="2503" height="1382" alt="屏幕截图 2026-04-22 161734" src="https://github.com/user-attachments/assets/96287ee9-9c82-4bdd-ab75-197bfffed2f7" />
